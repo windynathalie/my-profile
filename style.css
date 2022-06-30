@@ -160,6 +160,7 @@ hr {
 .interest-section {
     background-color: #473057;
     padding-bottom: 50px;
+border: none;
 }
 
 .title h2 {
@@ -377,7 +378,7 @@ textarea{
 
     .interest-section {
         display: flex;
-        padding-top: 30px;
+        padding-top: 50px;
     }
 
     .interest-list {
@@ -412,7 +413,7 @@ textarea{
     }
 
 textarea{
-width: 100%;
+width: 90%;
 }
 
 }
